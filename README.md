@@ -1,5 +1,5 @@
 # Recommendations-with-IBM
-## The project motivation si to analyse user reading behaviros on IBM watson studio data on user - artcile interactions and build a recommendation sytem. The recommended articles are most likely to be relevant to the user.
+## The project motivation is to analyze user reading behaviros on IBM watson studio data on user - artcile interactions and build a recommendation sytem. The recommended articles are most likely to be relevant to the user.
 
 # Data
 
